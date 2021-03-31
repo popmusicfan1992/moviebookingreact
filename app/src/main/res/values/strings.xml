@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KhoaHoc</string>
+    <string-array name="listVideo">
+        <item>Bài 1:</item>
+        <item>Bài 2:</item>
+        <item>Bài 3:</item>
+        <item>Bài 4:</item>
+
+    </string-array>
+</resources>
