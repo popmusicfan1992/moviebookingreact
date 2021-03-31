@@ -104,7 +104,11 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
-
+        arrayList = new ArrayList<>();
+        arrayList.add(new Country("Việt nam","Hà nội",R.drawable.vietnam));
+        arrayList.add(new Country("Mỹ","Wasinton",R.drawable.america));
+        adapter2 = new CountryAdapter(this,R.layout.country_img,arrayList);
+        listView.setAdapter(adapter2);
     }
 
 }
