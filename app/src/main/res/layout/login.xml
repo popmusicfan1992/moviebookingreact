@@ -23,18 +23,21 @@
 
         />
     <EditText
+        android:id="@+id/edUserName2"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Tài khoản"
+        android:hint="Tài khoản"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
          android:paddingLeft="20dp"
         android:background="@drawable/forget"/>
     <EditText
+        android:id="@+id/edPassWord2"
+        android:inputType="textPassword"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Mật khẩu"
+        android:hint="Mật khẩu"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
@@ -53,14 +56,16 @@
 
 
     <Button
+        android:id="@+id/btn_DangNhap"
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/bg_btn"
-        android:text="Login"
+        android:text="Đăng Nhập"
         android:textSize="18sp"
         android:backgroundTint="#3366FF"
         android:textStyle="bold" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

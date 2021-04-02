@@ -23,9 +23,10 @@
 
         />
     <EditText
+        android:id="@+id/edMaSV"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Mã sinh viên"
+        android:hint="Mã sinh viên"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
@@ -33,27 +34,33 @@
         android:background="@drawable/forget"/>
 
     <EditText
+        android:id="@+id/edUserName"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Tài khoản"
+        android:hint="Tài khoản"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
         android:paddingLeft="20dp"
         android:background="@drawable/forget"/>
     <EditText
+        android:inputType="textPassword"
+        android:id="@+id/edPassWord"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Mật khẩu"
+        android:hint="Mật khẩu"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
         android:paddingLeft="20dp"
         android:background="@drawable/forget"/>
     <EditText
+        android:inputType="textPassword"
+        android:pointerIcon="hand"
+        android:id="@+id/edXacNhanMatKhau"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:text="Xác nhận mật khẩu"
+        android:hint="Xác nhận mật khẩu"
         android:textColor="@color/purple_500"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
@@ -64,6 +71,7 @@
 
 
     <Button
+        android:id="@+id/btn_DangKi"
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
@@ -73,9 +81,10 @@
         android:backgroundTint="#3366FF"
         android:textStyle="bold" />
     <TextView
+        android:id="@+id/tv_DangNhap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Chưa có tài khoản? Đăng ký ngay"
+        android:text="Đăng nhập nếu bạn đã đăng kí."
         android:textStyle="bold"
         android:textSize="18dp"
         android:textColor="@color/purple_500"

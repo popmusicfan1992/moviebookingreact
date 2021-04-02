@@ -7,4 +7,11 @@
         <item>Bài 4:</item>
 
     </string-array>
+    <string name="nhapmasv">Vui Lòng Nhập Mã Sinh Viên</string>
+    <string name="nhapusername">Vui Lòng Nhập Tên Tài Khoản</string>
+    <string name="nhappassword">Vui Lòng Nhập Mật Khẩu</string>
+    <string name="xacnhanpassword">Vui Lòng Xác Nhận Mật Khẩu</string>
+    <string name="xacnhankhongdung">Xác Nhận Mật Khẩu Không Đúng</string>
+    <string name="dangkithanhcong">Đăng Ký Thành Công</string>
+    <string name="dangkithatbai">Đăng Ký Thất Bại</string>
 </resources>
