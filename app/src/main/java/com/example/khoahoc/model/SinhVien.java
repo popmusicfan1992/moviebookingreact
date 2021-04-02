@@ -1,14 +1,14 @@
 package com.example.khoahoc.model;
 
 public class SinhVien {
-    int MaSV;
+    String MaSV;
     String HoTen,UserName,PassWord;
 
-    public int getMaSV() {
+    public String getMaSV() {
         return MaSV;
     }
 
-    public void setMaSV(int maSV) {
+    public void setMaSV(String maSV) {
         MaSV = maSV;
     }
 

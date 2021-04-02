@@ -39,7 +39,7 @@ public class DangKyActivity extends AppCompatActivity implements View.OnClickLis
         int id = v.getId();
         switch (id){
             case R.id.btn_DangKi:
-                int sMaSV = Integer.parseInt(edMaSV.getText().toString());
+                String sMaSV = edMaSV.getText().toString();
                 String sUserName = edUserName.getText().toString();
                 String sPassWord = edPassWord.getText().toString();
                 String sXacNhanPassWord = edXacNhanMatKhau.getText().toString();

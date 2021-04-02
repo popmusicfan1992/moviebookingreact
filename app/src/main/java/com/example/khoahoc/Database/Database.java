@@ -23,7 +23,7 @@ public class Database extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         String tbSinhVien = "CREATE TABLE " + TB_SinhVien +" ("+
-                SinhVien_MaSV + " INTEGER PRIMARY KEY, "+
+                SinhVien_MaSV + " TEXT PRIMARY KEY, "+
                 SinhVien_HoTen+ "TEXT, " +
                 SinhVien_UserName + "TEXT, " +
                 SinhVien_PassWord + " TEXT )";
