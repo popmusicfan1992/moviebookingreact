@@ -1,0 +1,77 @@
+{
+    "signin": "Đăng nhập",
+    "signup": "Đăng ký",
+    "home": "Trang chủ",
+    "movie": "Phim",
+    "theater": "Cụm rạp",
+    "contact2": "Liên hệ",
+    "vietnamese": "Tiếng Việt",
+    "trailer": "trailer",
+    "booking": "Đặt Vé",
+    "moviehot": "Phim Hot",
+    "movieshowing": "Phim đang chiếu",
+    "moviecoming": "Phim Sắp Chiếu",
+    "addmore": "Xem thêm",
+    "min": "phút",
+    "showtime": "Lịch Chiếu",
+    "mota": "ỨNG DỤNG ĐẶT VÉ XEM PHIM TIỆN LỢI ĐÃ CÓ TRÊN SMARTPHONE",
+    "mota2": "Không chỉ đặt vé, bạn còn có thể bình luận phim, chấm điểm rạp và đổi quà hấp dẫn.",
+    "mota3": "Tải ứng dụng ngay:",
+    "dieukhoan1": "Điều khoản TIX",
+    "dieukhoan2": "Thỏa thuận sử dụng",
+    "dieukhoan3": "Chính sách bảo mật",
+    "dieukhoan4": "Giấy phép bản quyền",
+    "contact": {
+        "1": "Đối tác",
+        "2": "Ứng dụng trên điện thoại",
+        "3": "KẾT NỐI VỚI CHÚNG TÔI",
+        "4": "Liên hệ",
+        "5": "Mọi liên lạc vui lòng liên hệ qua email"
+    },
+    "detail": {
+        "mota": "Nội dụng phim",
+        "daodien": "Đạo diễn",
+        "theloai": "Thể loại",
+        "ngaykhoichieu": "Ngày khởi chiếu",
+        "thoigian": "Thời lượng",
+        "ngonngu": "Ngôn ngữ",
+        "danhgia": "Đánh giá"
+    },
+    "profile": {
+        "thongtintaikhoan": "Thông tin tài khoản",
+        "doimatkhau": "Đổi mật khẩu",
+        "dangxuat": "Đăng xuất",
+        "hoten": "Họ tên",
+        "email": "email",
+        "taikhoan": "Tài khoản",
+        "sodienthoai": "Số điện thoại",
+        "khongthechinhsua": "Không thể chỉnh sửa",
+        "matkhaucu": "Mật khẩu cũ",
+        "matkhaumoi": "Nhập mật khẩu mới",
+        "xacnhanmatkhau": "Xác nhận mật khẩu mới",
+        "update": "Cập nhật"
+    },
+    "checkout": {
+        "menu1": "Chọn ghế && Thanh Toán",
+        "menu2": "Kết quả đặt vé",
+        "ghe": "Ghế",
+        "diadiem": "Địa điểm",
+        "ghechuadat": "ghế chưa đặt",
+        "ghedangdat": "Ghế đang đặt",
+        "ghevip": "Ghế vip",
+        "ghecuabandat": "Ghế của bạn đặt",
+        "ghenguoikhacdat": "Ghế người khác đặt",
+        "ghedaduocdat": "Ghế đã được đặt",
+        "manhinh": "Màn hình"
+    },
+    "result": {
+        "tenhethongrap": "Tên hệ thống rạp",
+        "tencumrap": "Tên cụm rạp",
+        "tenghe": "Tên ghế",
+        "lichsu": "Lịch sử đặt vé của khách hàng",
+        "good": "Chúc các bạn có một buổi xem phim vui vẻ",
+        "mave": "Mã Vé",
+        "giave": "Giá vé"
+    }
+
+}
